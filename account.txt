@@ -1,1 +1,2 @@
 New content you want to replace with
+UID: your_uid, Email: your_email, Password: your_password
